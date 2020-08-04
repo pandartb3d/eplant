@@ -1,3 +1,3 @@
 # eplant
 
-![Plot Humidity](plot_humidity.png)
+![Plot Temparatur](plot_temp.jpg)
