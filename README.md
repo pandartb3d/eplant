@@ -1,1 +1,1 @@
-![Plot Temparatur](2020-08-05 17:21:17.340720.jpg')
+![Plot Temparatur](2020-08-05 17:23:10.519115.jpg')
