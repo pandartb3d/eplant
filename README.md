@@ -1,1 +1,1 @@
-![Plot Temparatur](2.jpg)
+![Plot Temparatur](3.jpg)
